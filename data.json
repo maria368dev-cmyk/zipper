@@ -1,15 +1,77 @@
 {
     "backgrounds": [
         {
-            "url": "https://i.imgur.com/5Jfd4Ul.jpeg",
+            "url": "https://archive.org/download/13_20251204_20251204/13.jpg",
             "category": "Anime",
             "title": "Anime 1"
         },
         {
-            "url": "https://your-username.github.io/your-repo/images/backgrounds/anime_2.webp",
+            "url": "https://archive.org/download/13_20251204_20251204/21.jpg",
             "category": "Anime",
             "title": "Anime 2"
         },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/27.jpg",
+            "category": "Anime",
+            "title": "Anime 3"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/28.jpg",
+            "category": "Anime",
+            "title": "Anime 4"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/30.jpg",
+            "category": "Anime",
+            "title": "Anime 5"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/31.jpg",
+            "category": "Anime",
+            "title": "Anime 6"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/32.jpg",
+            "category": "Anime",
+            "title": "Anime 7"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/42.jpg",
+            "category": "Anime",
+            "title": "Anime 8"
+        },
+		{
+            "url": "https://archive.org/download/13_20251204_20251204/46.jpg",
+            "category": "Anime",
+            "title": "Anime 9"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/47.jpg",
+            "category": "Anime",
+            "title": "Anime 10"
+        },
+		 {
+            "url": "https://archive.org/download/13_20251204_20251204/9.jpg",
+            "category": "Anime",
+            "title": "Anime 9"
+        },
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
         {
             "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_1.webp",
             "category": "Nature",
