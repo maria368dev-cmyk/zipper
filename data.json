@@ -79,7 +79,7 @@
         }
     ],
     "rows": [
-        {
+       
             {
            "title": "Row 1",
            "row_view": "https://example.com/rows/row_view_1.webp",
