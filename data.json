@@ -79,13 +79,13 @@
   "rows": [
     {
       "title": "Row 1",
-      "row_view": "https://example.com/rows/row_view_1.webp",
+      "row_view": "https://archive.org/download/13_20251204_20251204/9.jpg",
       "row_preview": "https://archive.org/download/13_20251204_20251204/9.jpg",
       "row": "https://archive.org/download/13_20251204_20251204/46.jpg"
     },
     {
       "title": "Row 2",
-      "row_view": "https://example.com/rows/row_view_1.webp",
+      "row_view": "https://archive.org/download/13_20251204_20251204/9.jpg",
       "row_preview": "https://archive.org/download/13_20251204_20251204/9.jpg",
       "row": "https://archive.org/download/13_20251204_20251204/46.jpg"
     }
