@@ -57,21 +57,6 @@
         },
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
         {
             "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_1.webp",
             "category": "Nature",
@@ -95,13 +80,18 @@
     ],
     "rows": [
         {
-            "url": "https://i.imgur.com/SAFp6XJ.jpeg",
-            "title": "Row 1"
-        },
-        {
-            "url": "https://your-username.github.io/your-repo/images/rows/row_2.webp",
-            "title": "Row 2"
-        }
+            {
+           "title": "Row 1",
+           "row_view": "https://example.com/rows/row_view_1.webp",
+             "row_preview": "https://archive.org/download/13_20251204_20251204/9.jpg",
+             "row": "https://archive.org/download/13_20251204_20251204/46.jpg"
+                 }   ,
+         {
+                "title": "Row 1",
+           "row_view": "https://example.com/rows/row_view_1.webp",
+             "row_preview": "https://archive.org/download/13_20251204_20251204/9.jpg",
+             "row": "https://archive.org/download/13_20251204_20251204/46.jpg"
+                  }
     ],
     "wallpapers": [
         {
