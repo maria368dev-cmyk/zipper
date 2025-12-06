@@ -79,15 +79,15 @@
   "rows": [
     {
       "title": "Row 1",
-      "row_view": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_view_1.png",
-      "row_preview": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_preview_1.png",
-      "row": "https://github.com/maria368dev-cmyk/zipper/blob/main/row1.png"
+      "row_view": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_view_1.png?raw=true",
+      "row_preview": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_preview_1.png?raw=true",
+      "row": "https://github.com/maria368dev-cmyk/zipper/blob/main/row1.png?raw=true"
     },
     {
       "title": "Row 2",
-      "row_view": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_view_2.png",
-      "row_preview": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_preview_2.png",
-      "row": "https://github.com/maria368dev-cmyk/zipper/blob/main/row2.png"
+      "row_view": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_view_2.png?raw=true",
+      "row_preview": "https://github.com/maria368dev-cmyk/zipper/blob/main/row_preview_2.png?raw=true",
+      "row": "https://github.com/maria368dev-cmyk/zipper/blob/main/row2.png?raw=true"
     }
   ],
   "wallpapers": [
