@@ -91,14 +91,36 @@
     }
   ],
   "wallpapers": [
-    {
-      "url": "https://i.imgur.com/SAFp6XJ.jpeg",
-      "title": "Wallpaper 1"
+     {
+      "url": "https://archive.org/download/13_20251204_20251204/13.jpg",
+      "category": "Anime",
+      "title": "Anime 1"
     },
     {
-      "url": "https://i.imgur.com/1bxdFkC.jpeg",
-      "title": "Wallpaper 2"
+      "url": "https://archive.org/download/13_20251204_20251204/21.jpg",
+      "category": "Anime",
+      "title": "Anime 2"
+    },
+   
+    {
+      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_1.webp",
+      "category": "Nature",
+      "title": "Nature 1"
+    },
+    {
+      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_2.webp",
+      "category": "Nature",
+      "title": "Nature 2"
+    },
+	{
+      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_1.webp",
+      "category": "Animals",
+      "title": "Nature 1"
+    },
+    {
+      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_2.webp",
+      "category": "Animals",
+      "title": "Nature 2"
     }
   ]
 }
-
