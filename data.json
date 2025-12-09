@@ -92,35 +92,35 @@
   ],
   "wallpapers": [
      {
-      "url": "https://archive.org/download/13_20251204_20251204/13.jpg",
+      "url": "https://i.imgur.com/KEf45Qo.jpeg",
       "category": "Anime",
       "title": "Anime 1"
     },
     {
-      "url": "https://archive.org/download/13_20251204_20251204/21.jpg",
+      "url": "https://64.media.tumblr.com/32e74c8a7dc8e6c5ca0efacbd2bea420/320af36892785746-45/s500x750/c58a89d5e09102ef71f160d8538172bd81545d2a.jpg",
       "category": "Anime",
       "title": "Anime 2"
     },
    
     {
-      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_1.webp",
+      "url": "https://64.media.tumblr.com/ceff80bf9bb3b374f9f80ac759b6b319/9dc12592d0c18138-a5/s500x750/16109ded7d38de88f770d8e766016077e615ae1b.jpg",
       "category": "Nature",
       "title": "Nature 1"
     },
     {
-      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_2.webp",
+      "url": "https://64.media.tumblr.com/3ca641361bf3450606f63ef0ab36c723/8abe4923b4cf15b9-36/s500x750/3d23ae6e2ecf84b1289cea1a020c67b6c285adc0.jpg",
       "category": "Nature",
       "title": "Nature 2"
     },
 	{
-      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_1.webp",
+      "url": "https://64.media.tumblr.com/53010dc59abfd3a25dc4258b0ae2f769/86b61024e7887888-9a/s540x810/8474020e9ae8deac7ed0d028a45a6040ef3c00b2.jpg",
       "category": "Animals",
-      "title": "Nature 1"
+      "title": "Animals 1"
     },
     {
-      "url": "https://your-username.github.io/your-repo/images/backgrounds/nature_2.webp",
+      "url": "https://64.media.tumblr.com/1ed2fabae15236ceb89075e7638f3133/018fe652cee44ba0-a8/s250x400/2e5656998393f4ce1f0d481c4f2f859c35cffcea.jpg",
       "category": "Animals",
-      "title": "Nature 2"
+      "title": "Animals 2"
     }
   ]
 }
